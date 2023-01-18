@@ -1,7 +1,4 @@
 ---
-# Douglas's blog. 
+title: Welcome to my blog
 ---
 
-## This is a subheader.
-
-- [ ] This is a check box.
